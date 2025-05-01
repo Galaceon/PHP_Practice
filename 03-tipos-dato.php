@@ -3,7 +3,15 @@
 // BOOLEAN
 $logueado = true;
 
-var_dump($logueado);
+// ENTERO
+$numero = 200;
+
+// FLOATS
+$float = 200.5;
+
+// STRINGS
+$nombre = "Antonio";
+$array = [];
 
 
 include 'includes/footer.php';
